@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=brijeshpatel08&label=Profile%20Views&style=flat" alt="Profile Views" />
+</p>
 # Hi 👋, I'm Brijesh Patel
 
 ## 📊 Data Analyst | 📈 Business Intelligence Analyst | ⚡ Power BI Developer
