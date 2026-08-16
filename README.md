@@ -1,6 +1,9 @@
 # Hi 👋, I'm Brijesh Patel
 
 ## 📊 Data Analyst | 📈 Business Intelligence Analyst | ⚡ Power BI Developer
+⬇️ ADD IT HERE ⬇️
+
+![Profile Views](https://komarev.com/ghpvc/?username=brijeshpatel08&label=Profile%20Views&color=0e75b6&style=flat)
 
 Welcome to my GitHub profile!
 
